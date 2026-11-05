@@ -38,3 +38,7 @@ Python, OpenCV, NumPy, Matplotlib, Pillow.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The code was written in October 2026 and published on GitHub in November 2026. Commit dates follow the dates of the original files; the README and figures were added at publication.</sub>
